@@ -1,0 +1,26 @@
+.container-search {
+    display: flex;
+    justify-content: center;
+    padding: 24px 40px;
+
+}
+
+.form {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    height: 42px;
+    width: 104px;
+}
+
+.search {
+    height: 42px;
+    width: 448px;
+    flex: 1 ;
+}
+
+
+
